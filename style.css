@@ -1,0 +1,89 @@
+body{
+    background-color: #2C3639;
+}
+
+
+header{
+    background-color: #30475E
+}
+
+.nombreLogo{
+    color: #DDDDDD;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    
+}
+
+.nav-link{
+    color: #DDDDDD;
+}
+
+
+
+
+
+
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 0.4em; 
+    color: #DDDDDD;
+}
+
+.subtitulo{
+    display: flex;
+    justify-content: center;
+    color: #DDDDDD;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,.85), rgba(0,0,0,.85)), url(/media/james-harrison-vpOeXr5wmR4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 1216;
+}
+
+
+
+.footerText{
+    display: flex;
+    justify-content: center;
+    color: #DDDDDD;
+}
+
+.footerdiv{
+    background-color: #30475E ;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+
+.proyecto{
+    width: 1000px;
+    height: 1000px;
+    margin:auto;
+    padding-top: 50px;
+    padding-bottom: 1000px;
+    
+}
+
+p{
+    color: #DDDDDD;
+}
+
+h4{
+    color: #DDDDDD;
+}
