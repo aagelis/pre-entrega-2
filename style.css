@@ -1,21 +1,21 @@
 body{
-    background-color: #2C3639;
+    background-color: #EAE0D5;
 }
 
 
 header{
-    background-color: #30475E
+    background-color: #5E503F
 }
 
 .nombreLogo{
-    color: #DDDDDD;
+    color: #F8EFD4;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     
 }
 
 .nav-link{
-    color: #DDDDDD;
+    color: #F8EFD4;
 }
 
 
@@ -28,13 +28,13 @@ header{
     display: flex;
     justify-content: center;
     margin-top: 0.4em; 
-    color: #DDDDDD;
+    color: #EAE0D5;
 }
 
 .subtitulo{
     display: flex;
     justify-content: center;
-    color: #DDDDDD;
+    color: #F8EFD4;
 }
 
 .hero{
@@ -56,11 +56,13 @@ header{
 .footerText{
     display: flex;
     justify-content: center;
-    color: #DDDDDD;
+    color: #F8EFD4;
 }
 
 .footerdiv{
-    background-color: #30475E ;
+    background-color: #5E503F ;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .social{
@@ -72,18 +74,16 @@ header{
 
 
 .proyecto{
-    width: 1000px;
-    height: 1000px;
-    margin:auto;
+    margin:0px 10px 10px 10px;
     padding-top: 50px;
-    padding-bottom: 1000px;
-    
+    padding-bottom: 100px;
+    padding-left: 10px;
 }
 
 p{
-    color: #DDDDDD;
+    color: #22333B;
 }
 
 h4{
-    color: #DDDDDD;
+    color: #22333B;
 }
