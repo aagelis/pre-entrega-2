@@ -157,9 +157,6 @@ h4{
     }
 }
 
-.input-group{
-    margin-bottom: 300px;
-}
 
 .input-group-1{
     width: 100px;
@@ -174,3 +171,6 @@ h4{
     width: 600px;
 }
 
+.btn{
+    margin-bottom: 100px;
+}
