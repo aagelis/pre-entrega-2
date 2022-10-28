@@ -63,6 +63,7 @@ header{
     background-color: #5E503F ;
     padding-top: 30px;
     padding-bottom: 10px;
+    
 }
 
 .social{
@@ -94,21 +95,14 @@ h4{
 }
 
 
-.formularioDeContacto {
-    display: flex;
-    justify-content: center;
-    color: rgb(0, 0, 0);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 .datosDeContacto{
     display: flex;
     flex-direction: column;
-    color: rgb(5, 5, 0);
-    justify-content: center;
-    padding:41px 4px 100px 50px ;
-    margin-left: 400px;
-    
+    color: #22333B;
+    align-items: center;
+    padding-bottom: 300px;
+    margin-top: 10px;
     
 }
 
@@ -116,4 +110,49 @@ h4{
     width: 400px;
     font-size: medium;
     
+}
+
+.text-center{
+    margin-top: 30px;
+}
+
+@media (min-width:768px) {
+    .datosDeContacto{
+        display: flex;
+        flex-direction: column;
+        color: #22333B;
+        align-items: center;
+        margin-bottom: 100px;
+        padding-top: 100px;
+        
+    }
+    
+    .datosDeContacto input {
+        width: 400px;
+        font-size: medium;
+        
+    }
+    .text-center{
+        margin-top: 90px;
+    }
+    
+}
+
+
+@media (min-width:1024px) {
+    .datosDeContacto{
+        display: flex;
+        flex-direction: column;
+        color: #22333B;
+        align-items: center;
+        padding-bottom: 200px;
+        padd
+        
+    }
+    
+    .datosDeContacto input {
+        width: 400px;
+        font-size: medium;
+        
+    }
 }
