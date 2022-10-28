@@ -156,3 +156,27 @@ h4{
         
     }
 }
+
+.input-group{
+    margin-bottom: 300px;
+}
+
+.input-group-1{
+    width: 100px;
+}
+
+
+.comentario{
+    width: 400px;
+}
+
+.faqs{
+    width: 600px;
+}
+
+.enviar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     ;
+}
