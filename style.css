@@ -44,7 +44,7 @@ header{
     text-align: center;
     flex-direction: column;
     height: 80vh;
-    background: linear-gradient(rgba(0,0,0,.85), rgba(0,0,0,.85)), url(/media/james-harrison-vpOeXr5wmR4-unsplash.jpg);
+    background: linear-gradient(rgba(0,0,0,.85), rgba(0,0,0,.85)), url(media/james-harrison-vpOeXr5wmR4-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
