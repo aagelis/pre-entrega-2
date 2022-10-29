@@ -159,7 +159,7 @@ h4{
 
 
 .input-group-1{
-    width: 100px;
+    width: 1000px;
 }
 
 
@@ -172,7 +172,7 @@ h4{
 }
 
 .btn{
-    margin-bottom: 100px;
+    margin-bottom: 300px;
 }
 
 @media (min-width:1024px){
@@ -181,3 +181,14 @@ h4{
     width: 550px;
     }
     }
+
+.fotomia{
+    width: 400px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.sobremip{
+    margin-top: 30px;
+}
