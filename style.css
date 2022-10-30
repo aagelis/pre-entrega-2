@@ -167,12 +167,10 @@ h4{
     width: 400px;
 }
 
-.faqs{
-    width: 600px;
-}
 
 .btn{
     margin-bottom: 300px;
+    
 }
 
 @media (min-width:1024px){
@@ -184,9 +182,9 @@ h4{
 
 .fotomia{
     width: 400px;
-    margin-bottom: 100px;
-    margin-top: 30px;
-    margin-left: 200px;
+    padding-bottom: 100px;
+    padding-top: 50px;
+    
 }
 
 .sobremip{
